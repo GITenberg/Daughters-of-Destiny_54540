@@ -1,0 +1,33 @@
+_repo: Daughters-of-Destiny_54540
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Cooke, John Estes
+    - Fitzgerald, Capt. Hugh
+    - Fitzgerald, Hugh
+    - Staunton, Schuyler
+    - Van Dyne, Edith
+    - Metcalf, Suzanne
+    - Akers, Floyd
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2017-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Daughters of Destiny
+url: http://www.gutenberg.org/ebooks/54540
